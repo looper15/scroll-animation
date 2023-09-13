@@ -13,7 +13,7 @@ const MYAPP_SHOULD_WORK = {
 };
 
 // Editable variables
-const MYAPP_WORK_ON_BROWSER = undefined;
+const MYAPP_WORK_ON_BROWSER = undefined; // undefined means both, true means Safari only, false means Chrome only
 
 // Minified script
 (function(){
