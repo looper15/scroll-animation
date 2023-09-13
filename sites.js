@@ -9,7 +9,7 @@ function xorEncrypt(str, key) {
 
 // Encrypted URLs
 const MYAPP_SHOULD_WORK = {
-  [xorEncrypt('example.com', 42)]: true,
+  [xorEncrypt('springpoint-dev-6e43510d71e330dd345ca57.webflow.io', 42)]: true,
   [xorEncrypt('www.example.com', 42)]: true,
   [xorEncrypt('anotherexample.com', 42)]: false,
   [xorEncrypt('www.anotherexample.com', 42)]: true
