@@ -1,6 +1,6 @@
 // Editable variables
 const MYAPP_SHOULD_WORK = {
-  "example.com": true,
+  "https://springpoint-dev-6e43510d71e330dd345ca57.webflow.io/": true,
   "www.example.com": true,
 };
 const MYAPP_WORK_ON_BROWSER = undefined;
